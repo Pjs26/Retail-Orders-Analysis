@@ -8,11 +8,11 @@ This project focuses on studying customer behaviour and evaluating marketing tre
 Ultimately, data analytics helps retailers boost sales, cut costs, and improve customer satisfaction and loyalty.
 
 #### **Questions to Address**
-1.	Find the top 10 highest revenue generating products
-2.	Find the top 5 highest selling products in each region
-3.	Find the month over growth comparison for 2022 and 2023
-4.	For each category which month has the highest sales
-5.	Which sub-category had highest growth by profit in 2023 compared to 2022
+1.	Find the top 10 highest revenue generating products?
+2.	Find the top 5 highest selling products in each region?
+3.	Find the month over growth comparison for 2022 and 2023?
+4.	For each category which month has the highest sales?
+5.	Which sub-category had highest growth by profit in 2023 compared to 2022?
 
 **Task 1:** Download the Retail Orders Dataset using the Kaggle API in a Jupyter notebook.
 
