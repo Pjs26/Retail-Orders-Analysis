@@ -15,11 +15,16 @@ Ultimately, data analytics helps retailers boost sales, cut costs, and improve c
 5.	Which sub-category had highest growth by profit in 2023 compared to 2022
 
 **Task 1:** Download the Retail Orders Dataset using the Kaggle API in a Jupyter notebook.
+
 **Task 2:** Clean and process the data.
+
 **Task 3:** Load the cleaned dataset into Microsoft SQL Server.
+
 **Task 4:** Analyze the cleaned data using SQL Server.
 
 #### **Additional Notes**
 •	Make sure the necessary packages and libraries are installed before running the code.
+
 •	Document your code and analyse effectively.
+
 •	Maintain a logical and organized structure within your codebase.
